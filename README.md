@@ -20,8 +20,6 @@ Include some badges such as build status, test coverage, etc.
 ---
 ## Installation
 
-  git clone https://github.com/sername/projectname.git
-  
-  cd projectname
-  
-  pip install requirements.txt
+    git clone https://github.com/sername/projectname.git
+    cd projectname
+    pip install requirements.txt
